@@ -25,4 +25,5 @@
 <br>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vieDamayanti&theme=vue)](https://git.io/streak-stats)
-
+<br>
+<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fviedamayanti"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fviedamayanti&countColor=%23263759" /></a>
