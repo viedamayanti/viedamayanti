@@ -1,6 +1,6 @@
 <h1 align="center">Hello world, I am Vie 👋 </h1>
 
-<h3 align="center">Junior Frontend Developer</h3>
+<h3 align="center">Web Developer</h3>
 
 <p align="center">I am Indonesian and I live in Denmark. I enjoy designing websites or apps, and I also enjoy doing video editing. Currently I am studying on Hack Your Future bootcamp for web developers.</p>
 <br>
