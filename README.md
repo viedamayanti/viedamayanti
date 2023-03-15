@@ -18,7 +18,7 @@
 <a href="https://www.instagram.com/vie_damayanti/" target="blank"><img align="center" height="25" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/instagram.svg" alt="viesInstagram"/>
 <a href="https://www.youtube.com/channel/UCgHA3v4d1XqvuwwMZzWzq-Q" target="blank"><img align="center" height="25" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/youtube.svg" alt="viesYoutube"/>
 <a href="https://codepen.io/vie_damayanti" target="blank"><img align="center" height="25" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/codepen.svg" alt="viesCodepen"/>
- <a href="https://www.freecodecamp.org/vie_damayanti" target="blank"><img align="center" height="25" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/freecodecamp.svg" alt="viesFreecodecamp"/>
+ <a href="https://www.freecodecamp.org/vie_damayanti" target="blank"><img align="center" height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/freecodecamp.svg" alt="viesFreecodecamp"/>
 </p>
 <br>
 <h3 align="left">Languages and Tools:</h3>
