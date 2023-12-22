@@ -1,4 +1,4 @@
-<h1 align="center">Hello world,</h1>
+<h1 align="center">Hello world 🌎 </h1>
 
 <h2 align="center">Data Analyst </h2>
 
