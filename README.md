@@ -20,13 +20,12 @@ Skills & Interests
 
 <br>
 
+
 <h3> Projects </h3>
 
 🛠️ Dive into my GitHub repositories for a diverse range of projects covering data analysis, visualization, web development, and more
 
-📊 Check out Tableau public accout 
-
-📈 Take a look my kaggle account
+📈 Take a look my kaggle account https://public.tableau.com/app/profile/vinaniek.ayu.damayanti/vizzes
 
 <br>
 <h3 align="left">Connect with me:</h3>
