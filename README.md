@@ -31,7 +31,7 @@ Skills & Interests
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/vinaniek-ayu-damayanti-90b083141/" target="blank"><img align="center" height="25" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" alt="viesLinkedin"/>
+<a href="https://www.linkedin.com/in/vinaniek-ayu-damayanti-90b083141/" target="blank"><img align="center" height="25" width="30" src="https://vectorwiki.com/images/DWRhK__linkedin-icon.svg" alt="viesLinkedin"/>
 <a href="https://www.instagram.com/vie_damayanti/" target="blank"><img align="center" height="25" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/instagram.svg" alt="viesInstagram"/>
 <a href="https://www.youtube.com/channel/UCgHA3v4d1XqvuwwMZzWzq-Q" target="blank"><img align="center" height="25" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/youtube.svg" alt="viesYoutube"/>
 <a href="https://codepen.io/vie_damayanti" target="blank"><img align="center" height="25" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/codepen.svg" alt="viesCodepen"/>
