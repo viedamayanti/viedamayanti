@@ -25,7 +25,7 @@
 <p align="left"> 
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://vectorwiki.com/images/6QLCw__python.svg" alt="python" width="40" height="30"/></a> 
 <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://vectorwiki.com/images/wbGV8__tableau-software.svg" alt="tableau" width="40" height="30"/></a> 
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://vectorwiki.com/images/wbGV8__tableau-software.svg" alt="pandas" width="40" height="30"/></a> 
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://vectorwiki.com/images/5giiy__pandas.svg" alt="pandas" width="40" height="30"/></a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://vectorwiki.com/images/8OeKq__mysql.svg" alt="mysql" width="40" height="30"/></a> 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://vectorwiki.com/images/RTYmI__docker.svg" alt="docker" width="40" height="30"/></a> 
 <a href="https://www.figma.com/files/drafts?fuid=995059791731893407" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="30"/> </a> 
