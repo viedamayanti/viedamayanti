@@ -1,6 +1,6 @@
 <h1 align="center">Hello world 🌎 </h1>
 
-<h2 align="center">Data Analyst </h2>
+<h2 align="center">Aspiring Data Analyst </h2>
 
 <h3> About Me </h3>
 <p> 👋 Hi, I'm Vie, an aspiring Data Analyst from Indonesia currently residing in Denmark. I have a strong passion for working with data and crafting compelling stories through data visualization. </p>
