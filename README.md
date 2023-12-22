@@ -1,26 +1,27 @@
 <h1 align="center">Hello world, I am Vie 👋 </h1>
 
-<h3 align="center">Data Analyst</h3>
+<h2 align="center">Data Analyst</h2>
 
-<h2> About Me </h2>
+<h3> About Me </h3>
 <p> 👋 Hi, I'm Vie, an aspiring Data Analyst from Indonesia currently residing in Denmark. I have a strong passion for working with data and crafting compelling stories through data visualization. </p>
 
 <br>
 
-<h2> Background </h2>
+<h3> Background </h3>
 📚 Recently completed the IBM SkillsBuild course as a Data Analyst 
 
 🏅 Graduated as a web developer from Hack Your Future
 
 <br>
 
-<h2> Experience </h2>
+<h3> Experience </h3>
 🔍 I undertook a remote internship at Data Glacier, diving deep into data analysis and visualization. This experience has equipped me with a solid foundation in interpreting data and crafting compelling narratives.
 Skills & Interests
 
 <br>
 
-<h2> Projects </h2>
+<h3> Projects </h3>
+
 🛠️ Dive into my GitHub repositories for a diverse range of projects covering data analysis, visualization, web development, and more
 
 📊 Check out Tableau public accout 
