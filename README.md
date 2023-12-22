@@ -21,6 +21,7 @@ Skills & Interests
 <br>
 <br>
 
+
 <h3> Projects </h3>
 
 🛠️ Dive into my GitHub repositories for a diverse range of projects covering data analysis, visualization, web development, and more
