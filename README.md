@@ -24,7 +24,7 @@ Skills & Interests
 
 <h3> Projects </h3>
 
-🛠️ Dive into my GitHub repositories for a diverse range of projects covering data analysis, visualization, web development, and more
+🛠️ Dive into my GitHub repositories https://github.com/viedamayanti?tab=repositories
 
 📈 Take a look my kaggle account https://public.tableau.com/app/profile/vinaniek.ayu.damayanti/vizzes
 
