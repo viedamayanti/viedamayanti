@@ -9,6 +9,7 @@
 
 <h2> Background </h2>
 📚 Recently completed the IBM SkillsBuild course as a Data Analyst 
+
 🏅 Graduated as a web developer from Hack Your Future
 
 <br>
@@ -21,7 +22,9 @@ Skills & Interests
 
 <h2> Projects </h2>
 🛠️ Dive into my GitHub repositories for a diverse range of projects covering data analysis, visualization, web development, and more
+
 📊 Check out Tableau public accout 
+
 📈 Take a look my kaggle account
 
 <br>
