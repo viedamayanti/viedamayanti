@@ -19,7 +19,7 @@
 Skills & Interests
 
 <br>
-
+<br>
 
 <h3> Projects </h3>
 
