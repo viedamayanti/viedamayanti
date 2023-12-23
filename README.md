@@ -26,7 +26,7 @@ Skills & Interests
 
 🛠️ Dive into my GitHub repositories https://github.com/viedamayanti?tab=repositories
 
-📈 Take a look my kaggle account https://public.tableau.com/app/profile/vinaniek.ayu.damayanti/vizzes
+📈 Take a look my Tableau account https://public.tableau.com/app/profile/vinaniek.ayu.damayanti/vizzes
 
 <br>
 <h3 align="left">Connect with me:</h3>
