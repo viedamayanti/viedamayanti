@@ -16,7 +16,7 @@
 
 <h3> Experience </h3>
 🔍 I undertook a remote internship at Data Glacier, diving deep into data analysis and visualization. This experience has equipped me with a solid foundation in interpreting data and crafting compelling narratives.
-Skills & Interests
+
 
 <br>
 <br>
