@@ -1,9 +1,9 @@
-<h1 align="center">Hello world 🌎 </h1>
+<h1 align="center"> Hello world 🌎 </h1>
 
-<h2 align="center">Aspiring Data Analyst </h2>
+<h2 align="center"> Data Analyst - Data Scientist </h2>
 
 <h3> About Me </h3>
-<p> 👋 Hi, I'm Vie, an aspiring Data Analyst from Indonesia currently residing in Denmark. I have a strong passion for working with data and crafting compelling stories through data visualization. </p>
+<p> 👋 Hi, I'm Vie, a Data Analyst/Data Scientist from Indonesia currently residing in Denmark. I have a deep passion for working with data, crafting compelling stories through data visualization, and creating the best models using machine learning to make predictions. </p>
 
 <br>
 
@@ -15,7 +15,7 @@
 <br>
 
 <h3> Experience </h3>
-🔍 I undertook a remote internship at Data Glacier, diving deep into data analysis and visualization. This experience has equipped me with a solid foundation in interpreting data and crafting compelling narratives.
+🔍 Currently, I am undergoing an internship with Data Glacier, where I am immersed in the field of Data Science. Throughout this experience, I am gaining insights into visualizing data, handling large datasets, and creating predictive models
 
 
 <br>
