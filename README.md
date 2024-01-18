@@ -3,7 +3,7 @@
 <h2 align="center"> Data Analyst - Data Science </h2>
 
 <h3> About Me </h3>
-<p> 👋 Hi, I'm Vie, a Data Analyst/Data Scientist from Indonesia currently residing in Denmark. I have a deep passion for working with data, crafting compelling stories through data visualization, and creating the best models using machine learning to make predictions. </p>
+<p> 👋 Hi, I'm Vie, a Data Analyst/Data Science from Indonesia currently residing in Denmark. I have a deep passion for working with data, crafting compelling stories through data visualization, and creating the best models using machine learning to make predictions. </p>
 
 <br>
 
